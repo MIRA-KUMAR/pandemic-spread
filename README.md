@@ -11,7 +11,7 @@ A static dataset is used in the project. It was obtained from -   http://visuald
 We have developed a series of five visualizations that effectively depict our analysis, help interpret and characterize the epidemic and solve the challenges raised by the Mini Challenge.
 These visualizations are then integrated in an interactive website. 
 
-# Stream Graph:
+# Streamline Graph:
 This visualization represents the number of people hospitalized and died in each country. 
 
         Dropdown interaction: Selection of a country from the dropdown or selection of survival options (Hospitalized/Dead) will show the streamgraph visualization of the selected options.
