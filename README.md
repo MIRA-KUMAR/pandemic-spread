@@ -17,8 +17,8 @@ This visualization represents the number of people hospitalized and died in each
         Dropdown interaction: Selection of a country from the dropdown or selection of survival options (Hospitalized/Dead) will show the streamgraph visualization of the selected options.
         Hover interactions: On hovering the mouse over a stream, the corresponding country’s name is displayed.
         Additional feature: 
-        On clicking on a specific stream (or, country), other streams will be faded for better visibility. Also, based on the country selected from the streamgraph, other graphs will be updated. 
-        A ‘RESET’ button is added to reset the graph, i.e, display the visualization for all countries. 
+                On clicking on a specific stream (or, country), other streams will be faded for better visibility. Also, based on the country selected from the streamgraph, other graphs will be updated. 
+                A ‘RESET’ button is added to reset the graph, i.e, display the visualization for all countries. 
 
 
 # Grouped Bar Chart:
@@ -26,7 +26,6 @@ The grouped bar chart is categorized into five different age groups and each bar
 
         Dropdown interaction: Selection from Countries dropdown will give the visualization of that Country. 
         Hover interactions: On hovering the mouse over the bars, the values are displayed.
-        Observations: We have noticed that throughout the countries, the patients between the ages 40-60 years of age are getting affected more. The hospitalized count and death counts are higher for this age group compared to other age groups. We have also noticed that the difference between the Hospitalized and Recovered counts (i.e, Dead counts) is marginal for all age groups and for most of the countries. 
         
         
 # Bubble chart: To show the importance of symptoms
@@ -35,8 +34,8 @@ This visualization represents the cardinal importance of each symptom analyzed. 
         Dropdown interaction: Selection from Countries and survival dropdown graph will give the analysis of that particular selected combination. 
         Hover interactions: Hovering shows us the syndrome name and how many people are affected with the syndrome. 
         Additional features: 
-        Upon clicking on a symptom, the most frequently occurring symptom with the current one will be highlighted. 
-        A ‘RESET’ button is added to reset the graph, i.e, bringing down the opacity value of all bubbles. 
+                Upon clicking on a symptom, the most frequently occurring symptom with the current one will be highlighted. 
+                A ‘RESET’ button is added to reset the graph, i.e, bringing down the opacity value of all bubbles. 
 
 
 # Cleveland Dotplot:
